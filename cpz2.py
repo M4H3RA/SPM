@@ -35,7 +35,7 @@ ___] |    |  | |  |    | | \| |__/ | |  | |__| |  | |___
 \x1b[1;97m=====================================================
 Author\x1b[1;91m:\x1b[1;96mALFIN\x1b[1;97m
 facebook\x1b[1;91m:\x1b[1;96mMazt cupliz\x1b[1;97m
-Github\x1b[1;91m:\x1b[1;92mhttps://github.com/pincok
+Github\x1b[1;91m:\x1b[1;92mhttps://github.com/M4H3RA
 \x1b[1;97m=====================================================
 """
 print (banner)
